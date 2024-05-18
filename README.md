@@ -1,6 +1,6 @@
 # Güncel Çalışıyor Durumda..!
 
-# Sakir All Bot
+# Sessiz oyun botu 
 _**Bu bot, gruplarda 10.000'e kadar üyeden bahsedebilir ve kanallarda 200'e kadar üyeden bahsedebilir. !**_
 
 ### 🏷 Bilgi
